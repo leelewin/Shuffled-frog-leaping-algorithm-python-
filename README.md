@@ -3,8 +3,10 @@ sfla_v2   numpy实现   重构v1
 
 ------
 
-![fn5](https://github.com/LMingl/Shuffled-frog-leaping-algorithm-python-/blob/main/Fn5.png)
 
-
-
+**sfla求Fn5最小值**：
 ![sfla求Fn5最小值](https://github.com/LMingl/Shuffled-frog-leaping-algorithm-python-/blob/main/show.gif)
+
+[我的博客](https://blog.csdn.net/abc_lml/article/details/110569218)
+
+**Note**:whut的同学请不要用这个交作业，可以挑战一下TSP。位置留好了，欢迎PR
